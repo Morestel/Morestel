@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### Contact me
-<a href="https://www.linkedin.com/in/thomas-morestel/"><img src="./img/linkedin-icon.png" alt="img" width="50"/></a>
+<a href="https://www.linkedin.com/in/thomas-morestel/"><img src="./img/linkedin-icon.png" alt="img" width="50"/></a> <a href="https://wakatime.com/@Morestel"><img src="./img/wakatime/png" width="50" /></a>
 
-### Language and tools
+### Languages and tools
 
-<img src="./img/vsc.png" width="75" /> <img src="./img/Git_icon.svg.png" width="75" /> <img src="./img/c.png" width="75" /> <img src="./img/html.png" width="75" /> <img src="./img/css.png" width="75" /> <img src="./img/js.png" width="75" /> <img src="./img/php.png" width="75" /> <img src="./img/java.png" width="75" /> <img src="./img/spring-boot.png" width="75" /> <img src="./img/vuejs.png" width="75" /> <img src="./img/laravel.png" width="75" />
+<img src="./img/vsc.png" width="25" /> <img src="./img/Git_icon.svg.png" width="25" /> <img src="./img/c.png" width="25" /> <img src="./img/html.png" width="25" /> <img src="./img/css.png" width="25" /> <img src="./img/js.png" width="25" /> <img src="./img/php.png" width="25" /> <img src="./img/java.png" width="25" /> <img src="./img/spring-boot.png" width="25" /> <img src="./img/vuejs.png" width="25" /> <img src="./img/laravel.png" width="25" />
 
 
 <!--
