@@ -4,19 +4,19 @@
 <a href="https://www.linkedin.com/in/thomas-morestel/"><img src="./img/linkedin-icon.png" alt="img" width="50"/></a>
 
 ### Language and tools
-<ul style="display:inline;list-style:none;">
-  <li><img src="./img/vsc.png" width="75" /></li>
-  <li><img src="./img/Git_icon.svg.png" width="75" /></li>
-  <li><img src="./img/c.png" width="75" /></li>
-  <li><img src="./img/html.png" width="75" /></li>
-  <li><img src="./img/css.png" width="75" /></li>
-  <li><img src="./img/js.png" width="75" /></li>
-  <li><img src="./img/php.png" width="75" /></li>
-  <li><img src="./img/java.png" width="75" /></li>
-  <li><img src="./img/spring-boot.png" width="75" /></li>
-  <li><img src="./img/vuejs.png" width="75" /></li>
-  <li><img src="./img/laravel.png" width="75" /></li>
-</ul>
+
+<img src="./img/vsc.png" width="75" />
+<img src="./img/Git_icon.svg.png" width="75" />
+<img src="./img/c.png" width="75" />
+<img src="./img/html.png" width="75" />
+<img src="./img/css.png" width="75" />
+<img src="./img/js.png" width="75" />
+<img src="./img/php.png" width="75" />
+<img src="./img/java.png" width="75" />
+<img src="./img/spring-boot.png" width="75" />
+<img src="./img/vuejs.png" width="75" />
+<img src="./img/laravel.png" width="75" />
+
 
 <!--
 **Morestel/Morestel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
