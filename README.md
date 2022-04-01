@@ -1,4 +1,5 @@
-### Hi there 👋
+# Morestel
+French student at the Jean Monnet University in Saint-Etienne in a DSC master's degree
 
 ### Contact me
 <a href="https://www.linkedin.com/in/thomas-morestel/"><img src="./img/linkedin-icon.png" alt="img" width="50"/></a> <a href="https://wakatime.com/@Morestel"><img src="./img/wakatime2.png" width="50" /></a>
