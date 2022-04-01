@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Contact me
-<a href="https://www.linkedin.com/in/thomas-morestel/"><img src="./img/linkedin-icon.png" alt="img" width="50"/></a> <a href="https://wakatime.com/@Morestel"><img src="./img/wakatime.png" width="50" /></a>
+<a href="https://www.linkedin.com/in/thomas-morestel/"><img src="./img/linkedin-icon.png" alt="img" width="50"/></a> <a href="https://wakatime.com/@Morestel"><img src="./img/wakatime2.png" width="50" /></a>
 
 ### Languages and tools
 
