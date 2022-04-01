@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Contact me
-![img](linkedin-icon.png)
+<a href="https://www.linkedin.com/in/thomas-morestel/"><img src="linkedin-icon.png" alt="img" width="50"/></a>
 
 <!--
 **Morestel/Morestel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
